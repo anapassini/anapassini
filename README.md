@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6708A7&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo(a),+me+chamo+Ana+Passini;estudante+do+SENAI+Informática;cursando+multimídia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A359FF&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo(a),+me+chamo+Ana+Passini;estudante+do+SENAI+Informática;cursando+multimídia)](https://git.io/typing-svg)
 
 <img src="./assets/linha-divisoria.png" width="100%" height="3px">
 
