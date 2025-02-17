@@ -4,7 +4,7 @@
 <img src="./assets/linha-divisoria.png" width="100%" height="3px">
 
 <div align="flex-start" > 
-  Meu nome é Ana, atualmente cursando multimídia no SENAI "Paulo Antônio Skaf", atualmente no 1º semestre.<br/>
+  Meu nome é Ana, atualmente cursando multimídia no SENAI "Paulo Antônio Skaf", atualmente no 3º semestre.<br/>
   <br/>
   O amor pelo mundo da tecnologia me fez sempre me esforçar para ser melhor.<br/>
   <br/>
